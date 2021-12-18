@@ -5,3 +5,5 @@ const Home = (props) =>{
     Home
     </div>  
 };
+
+export default Home;
